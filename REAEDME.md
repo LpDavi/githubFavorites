@@ -9,7 +9,7 @@ Este projeto foi desenvolvido usando JavaScript, HTML e CSS. A API do Github foi
 
 
 
-![preview](/assets/video/GitFavorites.mp4)
+![preview](/assets/img/preview.png)
 
 
 
